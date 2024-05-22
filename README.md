@@ -11,3 +11,10 @@
 -Displaying the signal   
 -Display the specter of the signal   
 -Multiplying 2 sinusoidal signals together
+
+# Second Part:
+Using different algorithms to calculate the integral of a function
+Algorithms:
+-Rectangles method
+-Trapeze method
+-Simpson's method
